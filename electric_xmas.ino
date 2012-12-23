@@ -5,6 +5,8 @@
     http://creativecommons.org/licenses/by-nc/3.0/de/deed.en_US
     
     (c) Bernd Krämer, Cream colored Ponies
+    
+    Based on touchBox by madshobye https://github.com/madshobye/touchBox
 
 */
 
